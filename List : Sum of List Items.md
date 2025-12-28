@@ -16,6 +16,8 @@ items=[153,147,124,102]
 print(sum(items))
 ```
 ## Output
-<img width="805" height="164" alt="image" src="https://github.com/user-attachments/assets/5e4723bc-9adc-41d9-83c8-5ac10e4366ec" />
+<img width="876" height="156" alt="image" src="https://github.com/user-attachments/assets/17a7830e-ffa0-457e-91dc-a31595bbd39f" />
+
 
 ## Result
+Thus , the program has been executed succesfully.
