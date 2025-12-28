@@ -26,3 +26,4 @@ def remove(a):
 <img width="952" height="241" alt="image" src="https://github.com/user-attachments/assets/d1ca924a-1ddd-4535-a18c-71e25abca977" />
 
 ## Result
+Thus , the program has been executed succesfully.
