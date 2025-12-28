@@ -19,3 +19,4 @@ print("8" in tuplex)
 <img width="928" height="273" alt="image" src="https://github.com/user-attachments/assets/3897c4a3-774d-4b5a-959d-afe05835bf10" />
 
 ## Result
+Thus , the program has been executed succesfully.
